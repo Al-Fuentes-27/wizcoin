@@ -14,9 +14,6 @@ To install with pip on Windows, run:
     py -m pip install wizcoin
 
 ## Quickstart Guide
-
-# TODO - fill this in later
-
 ----------------
 
 Here's some example code demonstrating how this module is used:
